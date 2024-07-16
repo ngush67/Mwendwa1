@@ -1,5 +1,5 @@
 // theme.js
-export const blueTheme = {
+export const blackTheme = {
   body: "#EDF9FE",
   text: "#001C55",
   expTxtColor: "#000a12",
@@ -69,7 +69,7 @@ export const redTheme = {
   splashBg: "#6a040f",
 };
 
-export const blackTheme = {
+export const blueTheme = {
   body: "#E5E5E5",
   text: "#14213d",
   expTxtColor: "#000a12",
