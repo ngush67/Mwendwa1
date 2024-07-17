@@ -84,111 +84,32 @@ const skills = {
       softwareSkills: [],
     },
     {
-      title: "Cloud Infra-Architecture",
+      title: "What Sets Us Apart",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+        "Passion for Perfection: We are passionate about our craft and dedicated to perfecting every shot. Our attention to detail and commitment to excellence ensure that each image we produce is a work of art.",
+        "Personal Connection: We believe that building a personal connection with our clients is key to capturing their true essence. From the initial consultation to the final delivery of your photos, we work closely with you to understand your vision and preferences.",
+        "Creativity and Innovation: Our team is constantly exploring new techniques and ideas to bring a fresh perspective to every project. We embrace creativity and innovation to ensure that your photos are unique and memorable.",
+        "Quality and Professionalism: We use top-of-the-line equipment and editing software to deliver high-quality images. Our professional approach ensures that every aspect of your experience with us is smooth and enjoyable.",
       ],
-      softwareSkills: [
-        {
-          skillName: "GCP",
-          fontAwesomeClassname: "simple-icons:googlecloud",
-          style: {
-            color: "#4285F4",
-          },
-        },
-        {
-          skillName: "AWS",
-          fontAwesomeClassname: "simple-icons:amazonaws",
-          style: {
-            color: "#FF9900",
-          },
-        },
-        {
-          skillName: "Azure",
-          fontAwesomeClassname: "simple-icons:microsoftazure",
-          style: {
-            color: "#0089D6",
-          },
-        },
-        {
-          skillName: "Firebase",
-          fontAwesomeClassname: "simple-icons:firebase",
-          style: {
-            color: "#FFCA28",
-          },
-        },
-        {
-          skillName: "PostgreSQL",
-          fontAwesomeClassname: "simple-icons:postgresql",
-          style: {
-            color: "#336791",
-          },
-        },
-        {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#47A248",
-          },
-        },
-        {
-          skillName: "Docker",
-          fontAwesomeClassname: "simple-icons:docker",
-          style: {
-            color: "#1488C6",
-          },
-        },
-        {
-          skillName: "Kubernetes",
-          fontAwesomeClassname: "simple-icons:kubernetes",
-          style: {
-            color: "#326CE5",
-          },
-        },
-      ],
+      softwareSkills: [],
     },
     {
-      title: "UI/UX Design",
+      title: "Meet The Team",
       fileName: "Canon.jpg",
       skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
+        "Our team of talented photographers and creatives are the heart of Mwendwa Photography. Each member brings their own unique skills and artistic vision, contributing to our collective goal of producing exceptional work. We are more than just photographers; we are storytellers who are passionate about capturing the moments that matter most.",
       ],
-      softwareSkills: [
-        {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobexd",
-          style: {
-            color: "#FF2BC2",
-          },
-        },
-        {
-          skillName: "Figma",
-          fontAwesomeClassname: "simple-icons:figma",
-          style: {
-            color: "#F24E1E",
-          },
-        },
-        {
-          skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:adobeillustrator",
-          style: {
-            color: "#FF7C00",
-          },
-        },
-        {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
-          style: {
-            color: "#000000",
-          },
-        },
+      softwareSkills: [],
+    },
+    {
+      title: "Let’s Connect",
+      fileName: "CloudInfraImg",
+      skills: [
+        "We would love to be a part of your journey and help you preserve your most cherished memories. Whether you're planning a wedding, organizing a family portrait session, or seeking creative photography for a special event, we invite you to reach out to us. Let Mwendwa Photography be your trusted partner in capturing the beauty and significance of your life's moments.",
+        "Thank you for considering Mwendwa Photography. We look forward to the opportunity to work with you and create something beautiful together.",
       ],
+      softwareSkills: [],
     },
   ],
 };
