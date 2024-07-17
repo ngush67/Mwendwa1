@@ -77,7 +77,7 @@ const skills = {
     },
     {
       title: "Our Philosophy",
-      fileName: "Canon.jpg",
+      fileName: "FullStackImg.js",
       skills: [
         "At Mwendwa Photography, we believe that every photograph tells a story. Whether it's the intimate exchange of vows on your wedding day, the pure joy of a family reunion, or the unique personality of a high school senior, we strive to encapsulate these special moments in a way that is both authentic and artistic. Our approach is to blend traditional and contemporary techniques, ensuring that each image is both visually stunning and deeply personal",
       ],
@@ -85,7 +85,7 @@ const skills = {
     },
     {
       title: "What Sets Us Apart",
-      fileName: "CloudInfraImg",
+      fileName: "FullStackImg.js",
       skills: [
         "Passion for Perfection: We are passionate about our craft and dedicated to perfecting every shot. Our attention to detail and commitment to excellence ensure that each image we produce is a work of art.",
         "Personal Connection: We believe that building a personal connection with our clients is key to capturing their true essence. From the initial consultation to the final delivery of your photos, we work closely with you to understand your vision and preferences.",
@@ -96,7 +96,7 @@ const skills = {
     },
     {
       title: "Meet The Team",
-      fileName: "Canon.jpg",
+      fileName: "FullStackImg.js",
       skills: [
         "Our team of talented photographers and creatives are the heart of Mwendwa Photography. Each member brings their own unique skills and artistic vision, contributing to our collective goal of producing exceptional work. We are more than just photographers; we are storytellers who are passionate about capturing the moments that matter most.",
       ],
@@ -104,7 +104,7 @@ const skills = {
     },
     {
       title: "Let’s Connect",
-      fileName: "CloudInfraImg",
+      fileName: "FullStackImg.js",
       skills: [
         "We would love to be a part of your journey and help you preserve your most cherished memories. Whether you're planning a wedding, organizing a family portrait session, or seeking creative photography for a special event, we invite you to reach out to us. Let Mwendwa Photography be your trusted partner in capturing the beauty and significance of your life's moments.",
         "Thank you for considering Mwendwa Photography. We look forward to the opportunity to work with you and create something beautiful together.",
