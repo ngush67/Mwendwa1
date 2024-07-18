@@ -77,7 +77,7 @@ const skills = {
     },
     {
       title: "Our Philosophy",
-      fileName: "FullStackImg.js",
+      fileName: "CloudInfraImg.js",
       skills: [
         "At Mwendwa Photography, we believe that every photograph tells a story. Whether it's the intimate exchange of vows on your wedding day, the pure joy of a family reunion, or the unique personality of a high school senior, we strive to encapsulate these special moments in a way that is both authentic and artistic. Our approach is to blend traditional and contemporary techniques, ensuring that each image is both visually stunning and deeply personal",
       ],
