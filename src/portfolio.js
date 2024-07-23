@@ -2,7 +2,7 @@
 
 // Website related settings
 const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
+  isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
@@ -70,6 +70,7 @@ const skills = {
   data: [
     {
       title: "Our Story",
+      fileName: "CloudInfraImg",
       skills: [
         "Mwendwa Photography was founded with a simple yet powerful vision: to capture the genuine beauty of life's moments and transform them into timeless memories. Our name, Mwendwa, is derived from a Swahili word meaning beloved or dear one, and this reflects our commitment to treating every client with the utmost care and respect.",
       ],
@@ -77,7 +78,7 @@ const skills = {
     },
     {
       title: "Our Philosophy",
-      fileName: "CloudInfraImg.js",
+      fileName: "CloudInfraImg",
       skills: [
         "At Mwendwa Photography, we believe that every photograph tells a story. Whether it's the intimate exchange of vows on your wedding day, the pure joy of a family reunion, or the unique personality of a high school senior, we strive to encapsulate these special moments in a way that is both authentic and artistic. Our approach is to blend traditional and contemporary techniques, ensuring that each image is both visually stunning and deeply personal",
       ],
@@ -85,7 +86,7 @@ const skills = {
     },
     {
       title: "What Sets Us Apart",
-      fileName: "FullStackImg.js",
+      fileName: "FullStackimg",
       skills: [
         "Passion for Perfection: We are passionate about our craft and dedicated to perfecting every shot. Our attention to detail and commitment to excellence ensure that each image we produce is a work of art.",
         "Personal Connection: We believe that building a personal connection with our clients is key to capturing their true essence. From the initial consultation to the final delivery of your photos, we work closely with you to understand your vision and preferences.",
@@ -96,7 +97,7 @@ const skills = {
     },
     {
       title: "Meet The Team",
-      fileName: "FullStackImg.js",
+      fileName: "CloudInfraImg",
       skills: [
         "Our team of talented photographers and creatives are the heart of Mwendwa Photography. Each member brings their own unique skills and artistic vision, contributing to our collective goal of producing exceptional work. We are more than just photographers; we are storytellers who are passionate about capturing the moments that matter most.",
       ],
@@ -104,7 +105,7 @@ const skills = {
     },
     {
       title: "Let’s Connect",
-      fileName: "FullStackImg.js",
+      fileName: "DataScienceImg",
       skills: [
         "We would love to be a part of your journey and help you preserve your most cherished memories. Whether you're planning a wedding, organizing a family portrait session, or seeking creative photography for a special event, we invite you to reach out to us. Let Mwendwa Photography be your trusted partner in capturing the beauty and significance of your life's moments.",
         "Thank you for considering Mwendwa Photography. We look forward to the opportunity to work with you and create something beautiful together.",
